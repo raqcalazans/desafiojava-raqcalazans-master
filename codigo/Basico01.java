@@ -1,7 +1,7 @@
 package codigo;
 
 import java.util.Scanner;
-
+//kkkkkk
 public class Basico01 {
     static Scanner leitor = new Scanner(System.in);
 
